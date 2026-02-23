@@ -150,3 +150,6 @@ La operación es casi **2 veces más rápida de lo que le promete a sus clientes
 **Diego Sánchez Reyes**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegoreyes982-blue)](https://www.linkedin.com/in/diegoreyes982/)  
 📧 diegoreyes9821@gmail.com
+
+
+![alt text](image.png)
